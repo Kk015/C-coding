@@ -5,15 +5,17 @@ int main()
 {
     int n;
     cin >> n;
+    char a = 65;
     for (int i = 1; i <= n; i++)
     {
-        int temp = i;
-        for (int j = 1; j <= i; j++)
+
+        for (int j = 1; j <= n; j++)
         {
 
-            cout << temp;
-            temp--;
+            cout << a;
+            a++;
         }
+
         cout << endl;
     }
 }
