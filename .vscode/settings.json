@@ -3,6 +3,7 @@
     "files.associations": {
         "*.cpp": "cpp",
         "random": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "set": "cpp"
     }
 }
