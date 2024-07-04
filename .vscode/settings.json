@@ -4,6 +4,12 @@
         "*.cpp": "cpp",
         "random": "cpp",
         "ostream": "cpp",
-        "set": "cpp"
-    }
+        "set": "cpp",
+        "numeric": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-11"
 }
