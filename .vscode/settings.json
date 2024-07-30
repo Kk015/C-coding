@@ -11,7 +11,8 @@
         "initializer_list": "cpp",
         "utility": "cpp",
         "string": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "algorithm": "cpp"
     },
     "C_Cpp.default.compilerPath": "/usr/bin/g++-11"
 }
